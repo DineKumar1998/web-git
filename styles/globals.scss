@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import './variables';
+@import './header.scss';
+@import './form.scss';
+
+body {
+    font-size: $font-size;
+}
