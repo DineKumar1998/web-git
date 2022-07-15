@@ -14,7 +14,7 @@ const LordChaitanya: NextPage = (props) => {
         <img
           src={`${iskcon.image}`}
           width="300"
-          className="p-2 shadow-md"
+          className="p-2 shadow-md md:w-[600px]"
         />
       </div>
       <div className="md:text-base py-6">

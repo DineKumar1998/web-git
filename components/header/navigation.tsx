@@ -148,15 +148,6 @@ export default [
   //     },
   //   ],
   // },
-  //   • ISKCON
-
-  // • SHRILA PRABHUPADA
-
-  // • LORD CHAITANYA
-
-  // • HH. GOPAL KRISHAN GOSWAMI MAHARAJ Ji
-
-  // • PRASHANT MUKUND DAS .
   {
     id: 'about',
     title: 'About',

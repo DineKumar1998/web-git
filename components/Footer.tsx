@@ -1,3 +1,4 @@
+import Link from 'next/link'
 import React from 'react'
 import { User } from 'react-feather'
 
@@ -170,14 +171,14 @@ class Footer extends React.Component {
                   Schedule
                 </h6>
                 <p className="mb-4">
-                  <a href="#!" className="text-gray-600">
+                  <Link href="/schedule/schedule" className="text-gray-600">
                     Schedule
-                  </a>
+                  </Link>
                 </p>
                 <p className="mb-4">
-                  <a href="#!" className="text-gray-600">
+                  <Link href="/schedule/calendar" className="text-gray-600">
                     Calendar
-                  </a>
+                  </Link>
                 </p>
               </div>
               <div className="">
