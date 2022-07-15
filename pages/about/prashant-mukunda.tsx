@@ -60,7 +60,7 @@ const GuruMaharaj: NextPage = (props) => {
           </p>
           <p className="py-2">
             He is regular guest speaker of srimad Bhagwatam in different iskcon
-            temples globaly...
+            temples globaly.
           </p>
         </div>
       </div>
